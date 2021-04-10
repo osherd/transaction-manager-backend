@@ -1,0 +1,22 @@
+{
+  "transactions": [
+    {
+      "id": 1618087444188,
+      "tradingParty": "me",
+      "counterparty": "you",
+      "amount": -400
+    },
+    {
+      "id": 1618087444189,
+      "tradingParty": "me",
+      "counterparty": "you",
+      "amount": 500
+    },
+    {
+      "id": 1618087444190,
+      "tradingParty": "me",
+      "counterparty": "someone_else",
+      "amount": 100
+    }
+  ]
+}
